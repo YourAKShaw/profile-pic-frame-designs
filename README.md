@@ -6,7 +6,7 @@ DESIGNS:
 
 [Design 1](1/design/design-1.png)
 
-<img src="1/design/design-1.png" height="500"/>
+<img src="1/design/design-1.png" width="50%"/>
 
 If you like any of the designs, feel free to use it for your next project!
 
