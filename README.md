@@ -4,10 +4,12 @@ This repository will contain a collection of frame designs for profile pic image
 
 DESIGNS:
 
-[Design 1](1/design/design-1.png)
+<details>
+  <summary><b>[Design 1](1/design/design-1.png)</b></summary>
+  <img src="1/design/design-1.png" width="85%"/>
+</details>
 
-<img src="1/design/design-1.png" width="85%"/>
-
+<br>
 If you like any of the designs, feel free to use it for your next project!
 
 Happy Hacking!
